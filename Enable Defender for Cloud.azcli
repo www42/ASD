@@ -1,0 +1,12 @@
+# Provider registered?
+az provider show --namespace Microsoft.Security --query "{Namespace:namespace,RregistrationState:registrationState}" --output table
+
+# List Defender plans
+az security pricing list --query "sort_by(value[].{Name:name,pricingTier:pricingTier}, &pricingTier)" --output table
+
+# Show Defender plan details
+az security pricing show --name "CloudPosture" --query "extensions[].{Name:name,isEnabled:isEnabled}" --output table
+
+# Enable Defender plan 'VirtualMachines' aka 'Servers'
+az security pricing create --name "VirtualMachines" --tier "Standard"
+az security pricing show --name "VirtualMachines" --query "extensions[].{Name:name,isEnabled:isEnabled}" --output table
