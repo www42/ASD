@@ -130,9 +130,3 @@
 [Find me on LinkedIn](https://linkedin.com/in/tjkkll)
 
 [Follow me on Twitter](https://twitter.com/tjkkll)
-
-
-
----
-
-[Top](#azure-secure-defend)
