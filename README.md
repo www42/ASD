@@ -20,6 +20,9 @@
 * Learning Path [SC-5008 Configure and govern entitlement with Microsoft Entra ID][SC-5008]
 
 
+<br>
+
+
 ## Labs
 
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
@@ -132,4 +135,4 @@
 
 ---
 
-[Top](#azure-secure-&-defend)
+[Top](#azure-secure-defend)
