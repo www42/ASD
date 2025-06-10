@@ -9,11 +9,11 @@
 
 [Get the presentation](pdf/)
 
-<br>
-
 ---
 
 [AZ-1004 Emails](emails/AZ-1004%20Emails.txt)
+
+[Az-1004 Take the assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-and-configure-azure-monitor/)
 
 ---
 
