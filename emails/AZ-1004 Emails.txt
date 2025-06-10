@@ -46,7 +46,7 @@ We have recently started using Azure to host various web apps. We now want to im
 
 This is your task:
 
-You need to create and configure a Log Analytics workspace named LogAnalytics that meets the following requirements:
+You need to create and configure a Log Analytics workspace named LogAnalytics1 that meets the following requirements:
 • Data must be retained for 60 days.
 • Ensures that the 36932723-AppLogExaminers group has read access to all the logs in LogAnalytics1.
 • Ensures that the maximum amount of data collected per day does NOT exceed 200 GB.
