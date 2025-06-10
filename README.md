@@ -5,8 +5,18 @@
 [SC-5008]: https://learn.microsoft.com/en-us/training/paths/configure-manage-entitlement-microsoft-entra-id/
 
 
+# Seminar 10.06.2025
 
+[Get the presentation](pdf/)
 
+<br>
+---
+
+[AZ-1004 Emails](emails/AZ-1004%20Emails.txt)
+
+---
+
+<br>
 
 # Azure Secure & Defend
 
