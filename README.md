@@ -55,6 +55,8 @@
 
 [Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
 
+[Applied Skills Poster](https://arch-center.azureedge.net/Credentials/microsoft-applied-skills-poster.pdf)
+
 [Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 
