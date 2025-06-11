@@ -17,6 +17,12 @@
 
 ---
 
+[SC-5002 Emails](emails/SC-5002%20Emails.txt)
+
+[SC-5002 Take the assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-services-and-workloads-with-microsoft-defender-for-cloud-regulatory-compliance-controls/)
+
+---
+
 <br>
 
 # Azure Secure & Defend
