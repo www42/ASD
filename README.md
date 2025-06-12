@@ -2,7 +2,7 @@
 [AZ-1004]: https://learn.microsoft.com/en-us/training/paths/deploy-configure-azure-monitor/
 [SC-5001]: https://learn.microsoft.com/en-us/training/paths/configure-security-information-event-management-operations-using-microsoft-sentinel/
 [SC-5002]: https://learn.microsoft.com/en-us/training/paths/secure-azure-services-workloads-defender-cloud/
-[SC-5008]: https://learn.microsoft.com/en-us/training/paths/configure-manage-entitlement-microsoft-entra-id/
+[SC-5004]: https://learn.microsoft.com/en-us/training/paths/sc-5004-defend-against-cyberthreats-defender/
 
 
 # Seminar 10.06.2025
@@ -34,7 +34,7 @@
 * Learning Path [AZ-1004 Deploy and configure Azure Monitor][AZ-1004]
 * Learning Path [SC-5002 Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls][SC-5002]
 * Learning Path [SC-5001 Configure SIEM security operations using Microsoft Sentinel][SC-5001]
-* Learning Path [SC-5008 Configure and govern entitlement with Microsoft Entra ID][SC-5008]
+* Learning Path [SC-5004 Defend against cyberthreats with Microsoft Defender XDR][SC-5004]
 
 
 <br>
