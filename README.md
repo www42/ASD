@@ -23,6 +23,14 @@
 
 ---
 
+[SC-5004 Emails](emails/SC-5004%20Emails.txt)
+
+[SC-5004 Take the assessment](https://learn.microsoft.com/en-us/credentials/applied-skills/defend-against-cyberthreats-with-microsoft-defender-xdr/)
+
+
+
+
+
 <br>
 
 # Azure Secure & Defend
