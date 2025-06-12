@@ -23,10 +23,10 @@ User name:
 Password:
 
 You can find these credentials by selecting the Instructions tab.
-Your lab environment consists of two virtual machines named Client 1 and Client that run Windows 11. Be sure to perform your tasks on the appropriate client as indicated in
+Your lab environment consists of two virtual machines named Client1 and Client2 that run Windows 11. Be sure to perform your tasks on the appropriate client as indicated in
 each email.
 
-Before you begin, you must prepare Microsoft Defender DR by performing the following steps:
+Before you begin, you must prepare Microsoft Defender XDR by performing the following steps:
 • Sign in to Client2 by using the provided credentials.
 • Open Microsoft Edge, go to https://security.microsoft.com, and sign in.
 • From the navigation pane, select Investigation & response, select Incidents & alerts, and then select Incidents. A message appears that states Hang on! We're
@@ -45,13 +45,13 @@ Network Administrator
 
 
 
-Subject: Onboard an endpoint to Microsoft Defender DR
------------------------------------------------------
+Subject: Onboard an endpoint to Microsoft Defender XDR
+------------------------------------------------------
 Hello,
 
-Now that we have provisioned Microsoft Defender DR in our environment, we need you to create a new device group and onboard an endpoint client named Client2.
+Now that we have provisioned Microsoft Defender XDR in our environment, we need you to create a new device group and onboard an endpoint client named Client2.
 
-We will also run a sample attack script from Client to simulate an attack.
+We will also run a sample attack script from Client2 to simulate an attack.
 
 This is your task:
 
@@ -92,11 +92,11 @@ Project Management Team
 
 
 
-Subject: Manage a Microsoft Defender DR incident
+Subject: Manage a Microsoft Defender XDR incident
 ------------------------------------------------
 Hello,
 
-We have a Microsoft Defender DR incident named Multi-stage incident involving Defense evasion & Discovery on one endpoint that has been reported. We want you to investigate the incident.
+We have a Microsoft Defender XDR incident named Multi-stage incident involving Defense evasion & Discovery on one endpoint that has been reported. We want you to investigate the incident.
 
 Note: Complete this task from Client1.
 
